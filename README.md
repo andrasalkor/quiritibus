@@ -21,7 +21,7 @@ quiritibus-plugin/
 
 This WordPress plugin is intended to host every custom feature Quiritibus needs beyond already existing plugins on the website. So far, it only adds a new block pattern to WordPress's default Gutenberg editor, to make the work of the magazine's editors easier.
 
-The pattern itself uses [PublishPress Blocks][https://publishpress.com] to function, and is specifically building on the Advanced Tabs block by defining four tabs instead of the default three, and giving appropriate names, Antiqua manu, Italica manu, Nova manu, Acadēmicā manū, instead of the default Tab 1, Tab 2, Tab 3 the user would normally be provided with upon the generation of the block.
+The pattern itself uses [PublishPress Blocks](https://publishpress.com) to function, and is specifically building on the Advanced Tabs block by defining four tabs instead of the default three, and giving appropriate names, Antiqua manu, Italica manu, Nova manu, Acadēmicā manū, instead of the default Tab 1, Tab 2, Tab 3 the user would normally be provided with upon the generation of the block.
 
 The user can then make four versions of the same Latin text externally (so far?), and paste them in the appropriate tab.
 
