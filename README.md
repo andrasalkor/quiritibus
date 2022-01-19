@@ -25,7 +25,7 @@ The pattern itself uses [PublishPress Blocks](https://publishpress.com) to funct
 
 The user can then make four versions of the same Latin text externally (so far?), and paste them in the appropriate tab.
 
-![](D:\Alkor\Latina\Quiritibus\quiritibus-git\images\advanced_tabs_block_pattern.png)
+![Showcasing the plugin](images\advanced_tabs_block_pattern.png)
 
 ## Installation
 
