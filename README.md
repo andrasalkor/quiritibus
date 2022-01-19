@@ -8,6 +8,8 @@ This repository is storing the custom plugin developed for the Quiritibus Latin 
 
 ```
 quiritibus-plugin/
+├─ images/
+│  ├─ advanced_tabs_block_pattern.png
 ├─ inc/
 │  ├─ categories.php
 │  ├─ patterns.php
