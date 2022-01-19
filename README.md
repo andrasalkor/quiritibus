@@ -27,4 +27,8 @@ The user can then make four versions of the same Latin text externally (so far?)
 
 ## Installation
 
-Coming soon...
+1. Clone the repository to your computer.
+2. Compress the root folder into `quiritibus-plugin.zip` (the name is important).
+3. In your WordPress site's back-end, go to plugins.
+4. Click 'Add New', then 'Upload Plugin', and select `quiritibus-plugin.zip`.
+5. Press 'Install Now', and then activate it.
