@@ -1,6 +1,6 @@
 # Quiritibus Plugin
 
-This repository is storing the custom plugin developed for the Quiritibus Latin Magazine website, currently being developed at: https://quiritibus.andrasalkor.com/
+This repository is storing the custom plugin developed for the Quiritibus Latin Magazine website, currently being developed at: https://quiritibus.com/
 
 > Disclaimer: The documentation of this plugin is English at the moment, but I might go for Latin later down the line, just for the fun of it.
 
